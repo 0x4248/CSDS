@@ -1,6 +1,6 @@
 # Computer System Diagnostics Standard
 
-Onboard Diagnostics Standard (CSDS) is a standard for receiving diagnostic data from a computer system.
+Computer System Diagnostics Standard (CSDS) is a standard for receiving diagnostic data from a computer system.
 
 It is designed to be used to quickly send diagnostic data from a computer system to diagnostic software or diagnostic hardware.
 
