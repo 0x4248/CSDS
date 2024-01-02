@@ -96,7 +96,8 @@ This allows the software to read the custom metadata keys and values.
 After that there is a section that is used for the zipped diagnostic data. This can include anything from text files or entire disk dumps. The section starts with `44415441` in hex, or `DATA` in ASCII. 
 
 ### End
-There is no end to the file the file ends when the data ends.
+
+When the data of the zip file ends this signifies the end of the CSDS data. 
 
 ## Licence
 
