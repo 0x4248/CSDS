@@ -1,6 +1,6 @@
 # Computer System Diagnostics Standard
 
-Computer System Diagnostics Standard (CSDS) is a standard for receiving diagnostic data from a computer system.
+Computer System Diagnostics Standard (CSDS) is a standard for receiving diagnostic data from a computer system that is easy to read and write.
 
 It is designed to be used to quickly send diagnostic data from a computer system to diagnostic software or diagnostic hardware. It is also designed to be complexly readable by any computer or human.
 
