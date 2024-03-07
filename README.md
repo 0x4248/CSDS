@@ -4,7 +4,7 @@ Computer System Diagnostics Standard (CSDS) is a standard for receiving diagnost
 
 It is designed to be used to quickly send diagnostic data from a computer system to diagnostic software or diagnostic hardware. It is also designed to be complexly readable by any computer or human.
 
-## Structure
+## File Structure
 
 The diagnostics should be sent in zip format containing the following files:
 
